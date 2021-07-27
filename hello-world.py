@@ -1,2 +1,2 @@
 print("Hello World")
-print("Hello World - 1 th trigger")
+print("Hello World - 2 nd trigger")
